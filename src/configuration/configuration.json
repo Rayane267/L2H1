@@ -1,0 +1,43 @@
+{
+    "project": "2021-l2h1",
+    "version": "0.0Alpha",
+    "debug": "True",
+    "path_to_save" : "../output/",
+    "members": [
+        {"Member" : [
+            {
+                "name" : "Baitiche",
+                "first_name" : "Asma",
+                "role" : "developer"
+            },
+            {
+                "name" : "Basci",
+                "first_name" : "Onur",
+                "role" : "developer"
+            },
+            {
+                "name" : "Demaret",
+                "first_name" : "Hugo",
+                "role" : "developer"
+            },
+            {
+                "name" : "Taleb",
+                "first_name" : "Rayane",
+                "role" : "developer"
+            },
+            {
+                "name" : "Wendling",
+                "first_name" : "Laurent",
+                "role" : "manager"
+            }
+        ]
+        }
+    ],
+    "configuration" : [],
+    "dependencies" : [
+        "numpy",
+        "pandas",
+        "cv2",
+        "json"
+    ]
+}
