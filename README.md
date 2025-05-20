@@ -1,6 +1,6 @@
-# Project created for the supervised course in computer science
+# Project made for the tutored project in computer science
 
-The purpose of this project was to identify spatial relationships between objects based on an input image.
+The goal of this project was to determine spatial relations between objects, given an image.
 
 ## Université Paris Cité
 
